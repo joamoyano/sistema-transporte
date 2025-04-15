@@ -41,13 +41,6 @@ cd sistema-transporte
 ```
 ---
 ### ▶️ Backend
-
-```
-cd servidor
-npm install
-npm run dev
-
-```
 ```
 cd servidor
 npm install
