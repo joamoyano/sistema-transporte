@@ -58,12 +58,12 @@ npm run dev
 ```
 Abrí http://localhost:3000 para acceder al sistema.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Joaquín Moyano
 Analista de Sistemas – Desarrollador Full Stack Junior
 GitHub · LinkedIn
 
-💡 Notas finales
+## 💡 Notas finales
 Este proyecto forma parte de mi portfolio profesional. Si te interesa ver más o querés que lo adapte a otras necesidades empresariales, ¡no dudes en contactarme!
 
 
