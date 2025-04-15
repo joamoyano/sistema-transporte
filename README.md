@@ -40,7 +40,7 @@ git clone https://github.com/tu-usuario/sistema-transporte.git
 cd sistema-transporte
 ```
 ---
-###▶️ Backend
+### ▶️ Backend
 
 ```
 cd servidor
@@ -53,11 +53,11 @@ cd servidor
 npm install
 npm run dev
 ```
-###Asegurate de crear un archivo .env con tu URI de MongoDB:
+### Asegurate de crear un archivo .env con tu URI de MongoDB:
 ```
 MONGO_URI=mongodb+srv://<usuario>:<password>@cluster.mongodb.net/sistematransporte
 ```
-###💻 Frontend
+### 💻 Frontend
 ```
 cd cliente
 npm install
