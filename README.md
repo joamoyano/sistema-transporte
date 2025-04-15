@@ -38,3 +38,36 @@ Este sistema fue creado para digitalizar la operativa de una empresa real de tra
 ```bash
 git clone https://github.com/tu-usuario/sistema-transporte.git
 cd sistema-transporte
+```
+---
+
+```▶️ Backend
+cd servidor
+npm install
+npm run dev
+
+```
+```
+cd servidor
+npm install
+npm run dev
+```
+```Asegurate de crear un archivo .env con tu URI de MongoDB:
+MONGO_URI=mongodb+srv://<usuario>:<password>@cluster.mongodb.net/sistematransporte
+```
+```💻 Frontend
+cd cliente
+npm install
+npm run dev
+```
+Abrí http://localhost:3000 para acceder al sistema.
+
+👨‍💻 Autor
+Joaquín Moyano
+Analista de Sistemas – Desarrollador Full Stack Junior
+GitHub · LinkedIn
+
+💡 Notas finales
+Este proyecto forma parte de mi portfolio profesional. Si te interesa ver más o querés que lo adapte a otras necesidades empresariales, ¡no dudes en contactarme!
+
+
